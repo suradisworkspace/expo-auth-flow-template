@@ -1,7 +1,7 @@
-import { Stack } from "expo-router";
+import { Stack } from 'expo-router'
 
 const UnAuthStack = () => {
-  return <Stack />;
-};
+  return <Stack />
+}
 
-export default UnAuthStack;
+export default UnAuthStack
